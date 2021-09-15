@@ -1,2 +1,2 @@
 # myrepositary
-Farookh Shaikh repositary
+Farookh Shaikh repository
