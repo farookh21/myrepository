@@ -1,2 +1,2 @@
-# myrepositary
+# myrepository
 Farookh Shaikh repository
